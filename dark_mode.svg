@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="1068px" height="560px" font-size="16px">
+<style>
+@font-face { src: local("Consolas"), local("Consolas Bold"); font-family: "ConsolasFallback"; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .addColor {fill: #3fb950;} .delColor {fill: #f85149;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1068px" height="560px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">                H@@Mmi</tspan>
+<tspan x="15" y="70">             .rgg%*i;:,,^!jj</tspan>
+<tspan x="15" y="90">             *g%Hr^`,^::^&#x27;^|</tspan>
+<tspan x="15" y="110">             Hkmj&#x27;,;;:!j,..</tspan>
+<tspan x="15" y="130">             nnl.`,,&#x27;..^i,,</tspan>
+<tspan x="15" y="150">            j*r^.`|!;^;;|;ii</tspan>
+<tspan x="15" y="170">   irnmkHHkmlil```|lrnnli!ii</tspan>
+<tspan x="15" y="190">  %M%Hm*lli!^`;^:;::|ijjll|^     |</tspan>
+<tspan x="15" y="210">  *rj!^`           ,;^:::,;` ;</tspan>
+<tspan x="15" y="230">mn*ljj||;^:````&#x27;,  `;j|i|!l^,nk*|</tspan>
+<tspan x="15" y="250">!rmn***nn**ll*rjl:!:,jrjir|:||in*nn**l</tspan>
+<tspan x="15" y="270"> &#x27;,jlrrrrrrrl***n!lj||rlljiiij|rnnnnnmk*</tspan>
+<tspan x="15" y="290">    ,:;!jllr***n**r*lll*****nnnnnnnn**nmn</tspan>
+<tspan x="15" y="310">         ^ilr*n*n**rrl*%H*nn*****nn*r*n*m*</tspan>
+<tspan x="15" y="330">           !*rn*n***rrrrkn*rr****nr*rr***m</tspan>
+<tspan x="15" y="350">            j*rrn*****l*rlljl*rrr**rlj***n*</tspan>
+<tspan x="15" y="370">             **rrnnr*rllHHkHHr:l*rrr|ilrr*k|</tspan>
+<tspan x="15" y="390">             !*rr**ll**ij;rmr!^jrrl*:;illr*n</tspan>
+<tspan x="15" y="410">              rr*rr*llrlj&#x27;:i;`iliiij:.,;ill*l</tspan>
+<tspan x="15" y="430">              jnrrrr*rlrj|^^||i!!lrljjlr***lj</tspan>
+<tspan x="15" y="450">              im*rr*rrrrlli!::,`,^;!ijlrrrli!</tspan>
+<tspan x="15" y="470">              !n*n**l*rlllllljji|:,``,,^,,,,:</tspan>
+<tspan x="15" y="490">              |mrn**rrlljljjjjjjjii;,</tspan>
+<tspan x="15" y="510">              |nrrn*r*rlljjjjjjljjj|!</tspan>
+<tspan x="15" y="530">              jnn***lr*rrjljjlllljjij|</tspan>
+</text>
+<text x="471" y="80" fill="#c9d1d9">
+<tspan x="471" y="80">edi@jitareanu <tspan class="cc">—————————————————————————————————————————————</tspan></tspan>
+<tspan x="471" y="100"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>: <tspan class="cc">............................</tspan> <tspan class="value">Windows 11, Ubuntu (WSL)</tspan></tspan>
+<tspan x="471" y="120"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>: <tspan class="cc">...........................................</tspan> <tspan class="value">Betfair</tspan></tspan>
+<tspan x="471" y="140"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>: <tspan class="cc">........................</tspan> <tspan class="value">Software Engineer Intern</tspan></tspan>
+<tspan x="471" y="160"><tspan class="cc">. </tspan><tspan class="key">Education</tspan>: <tspan class="cc">..........</tspan> <tspan class="value">AI4CI MSc @ Babeș-Bolyai University</tspan></tspan>
+<tspan x="471" y="180"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>: <tspan class="cc">.............</tspan> <tspan class="value">IntelliJ IDEA, Android Studio, Jupyter</tspan></tspan>
+<tspan x="471" y="200"><tspan class="cc">. </tspan></tspan>
+<tspan x="471" y="220"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>: <tspan class="cc">.</tspan> <tspan class="value">Java, Python, JS/TS, Kotlin, C++</tspan></tspan>
+<tspan x="471" y="240"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>: <tspan class="cc">......</tspan> <tspan class="value">SQL, HTML, CSS, YAML, Markdown</tspan></tspan>
+<tspan x="471" y="260"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>: <tspan class="cc">.......................</tspan> <tspan class="value">Romanian, English</tspan></tspan>
+<tspan x="471" y="280"><tspan class="cc">. </tspan></tspan>
+<tspan x="471" y="300"><tspan class="cc">. </tspan><tspan class="key">Focus.Now</tspan>: <tspan class="cc">..................</tspan> <tspan class="value">AI integration in real apps</tspan></tspan>
+<tspan x="471" y="320"><tspan class="cc">. </tspan><tspan class="key">Focus.AI</tspan>: <tspan class="cc">...........</tspan> <tspan class="value">LLMs, Amazon Bedrock, vector search</tspan></tspan>
+<tspan x="471" y="340"><tspan class="cc">. </tspan><tspan class="key">Focus.Research</tspan>: <tspan class="cc">...................</tspan> <tspan class="value">RL for energy systems</tspan></tspan>
+<tspan x="471" y="360"><tspan class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>: <tspan class="cc">..............</tspan> <tspan class="value">Spring Boot, Kafka, FastAPI</tspan></tspan>
+<tspan x="471" y="380"><tspan class="cc">. </tspan><tspan class="key">Stack.Cloud</tspan>: <tspan class="cc">.....................</tspan> <tspan class="value">AWS Lambda, S3, Docker</tspan></tspan>
+<tspan x="471" y="400"><tspan class="cc">. </tspan></tspan>
+<tspan x="471" y="420">- GitHub Stats <tspan class="cc">————————————————————————————————————————————</tspan></tspan>
+<tspan x="471" y="440"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>: <tspan class="cc">...</tspan> <tspan class="value">21 {Contributed: 5}</tspan> | <tspan class="key">Stars</tspan>: <tspan class="cc">...............</tspan> <tspan class="value">6</tspan></tspan>
+<tspan x="471" y="460"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>: <tspan class="cc">.................</tspan> <tspan class="value">363</tspan> | <tspan class="key">Followers</tspan>: <tspan class="cc">...........</tspan> <tspan class="value">4</tspan></tspan>
+<tspan x="471" y="480"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>: <tspan class="cc">.</tspan> <tspan class="value">99,328</tspan> ( <tspan class="addColor">137,568++</tspan>, <tspan class="delColor">38,240--</tspan> )</tspan>
+</text>
+</svg>
